@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yangryu321
+- 👋 Hi, I’m Yang :)
 - 👀 I’m interested in c# related programming fields like .Net, Unity, etc.
 - 🌱 I’m currently learning Blazor Server Apps.
 - 💞️ I’m looking to collaborate on anything interesting.
