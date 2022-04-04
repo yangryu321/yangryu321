@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yang :)
-- 👀 I’m interested in c# related programming fields like .Net, Unity, etc.
+- 👀 I’m interested in c# related programming like .Net, Unity, etc.
 - 🌱 I’m currently learning Blazor Server Apps.
 - 💞️ I’m looking forward to collaborate on anything interesting.
 - 📫 How to reach me yangryu321@gmail.com :)
