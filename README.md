@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <p>:wave:Hi, it's <img src="header.svg" width="100" height="50" >  here.:wave:</p>
+  <p>:wave:Hi, it's   here.:wave:</p>
   <p>I'm a software developer :see_no_evil:</p>
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="200"/>
   <div>
