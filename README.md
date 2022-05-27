@@ -3,7 +3,7 @@
   <p>I'm a software developer :see_no_evil:</p>
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="200"/>
   <div>
-    <p>👀 I’m interested in c# related programming using .Net, Unity, etc.</p>
+    <p>👀 I’m interested web and game development.</p>
     <p>🌱 I’m currently learning web development including asp.net core, Angular and more.</p>
     <p>💞️ I’m looking forward to collaborate on anything interesting.</p>
     <a href="mailto:@syliujob@gmail.com">📫 syliujob@gmail.com :)</a>
