@@ -1,6 +1,3 @@
-<div align="center">
-	<img src="header.svg" width="100" height="50" alt="Click to see the source">
-</div>
 
 <div id="header" align="center">
   <p>:wave:Hi, it's **Yang** here.:wave:</p>
