@@ -6,7 +6,7 @@
     <p>👀 I’m interested in c# related programming using .Net, Unity, etc.</p>
     <p>🌱 I’m currently learning web development like asp.net core and Angular.</p>
     <p>💞️ I’m looking forward to collaborate on anything interesting.</p>
-    <p>📫 syliujob@gmail.com :)</p>
+    <a href="mailto:@syliujob@gmail.com">📫 syliujob@gmail.com :)</a>
   </div>
 </div>
 
