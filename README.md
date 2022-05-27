@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <p>Hi, it's Yang here.</p>
-  <p>I'm a software developer</p>
+  <p>:wave:Hi, it's **Yang** here.:wave:</p>
+  <p>I'm a software developer :see_no_evil:</p>
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="200"/>
   <div>
     <p>👀 I’m interested in c# related programming using .Net, Unity, etc.</p>
@@ -9,6 +9,7 @@
     <a href="mailto:@syliujob@gmail.com">📫 syliujob@gmail.com :)</a>
   </div>
 </div>
+
 
 
 
