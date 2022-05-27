@@ -1,6 +1,4 @@
-<div align="center">
-		<img src="header.svg" width="100" height="50" >
-</div>
+
 
 <div id="header" align="center">
   <p>:wave:Hi, it's <img src="header.svg" width="100" height="50" > here.:wave:</p>
