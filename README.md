@@ -1,7 +1,5 @@
 <div align="center">
-	<br>
-		<img src="header.svg" width="100" height="50" alt="Click to see the source">
-	<br>
+	<img src="header.svg" width="100" height="50" alt="Click to see the source">
 </div>
 
 <div id="header" align="center">
